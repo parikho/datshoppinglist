@@ -44,6 +44,9 @@ Report generated in workflows directory - report.html
 Log generated in workflows directory - log.html
 ![alt text](https://github.com/parikho/datshoppinglist/blob/main/Log.png)
 
+
+Manual Test cases - resources/DatShoppingListMannualTC_ParinitaKhond.xlsx
+
  
 
 
