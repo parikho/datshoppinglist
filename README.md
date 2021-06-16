@@ -37,4 +37,10 @@ Execute the tests
 ```
    
  
+Report generated in workflows directory - report.html
+
+ 
+
+
+
 
