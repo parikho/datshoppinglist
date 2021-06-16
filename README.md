@@ -37,7 +37,12 @@ Execute the tests
 ```
    
  
+ 
 Report generated in workflows directory - report.html
+![alt text](https://github.com/parikho/datshoppinglist/blob/main/Report.png)
+
+Log generated in workflows directory - log.html
+![alt text](https://github.com/parikho/datshoppinglist/blob/main/Log.png)
 
  
 
