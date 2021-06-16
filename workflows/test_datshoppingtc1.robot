@@ -1,6 +1,6 @@
 *** Settings ***
 Library     SeleniumLibrary
-Resource  ../resources/resources.robot  
+
 
 *** Variables ***
 ${url}   http://localhost:5000
